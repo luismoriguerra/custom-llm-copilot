@@ -1,0 +1,10 @@
+
+
+curl --request POST --header "Content-Type: application/json" --data '{"prompt":"def hello_world(name):"}' http://localhost:8000/generate
+
+
+###
+curl --request POST --header "Content-Type: application/json" --data '{"prompt":"def hello_world(name):"}' http://localhost:8000/generate
+###
+###
+###
